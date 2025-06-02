@@ -1,2 +1,3 @@
 # EJPT-Notes
-My notes and other stuff for eJPT certification exam.
+Here, This Repo contains my learning and eJPT exam experience which contains my cheat-sheet , notes and some other stuff related to eJPT and pentration testing .
+---
