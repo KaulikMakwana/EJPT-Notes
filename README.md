@@ -4,7 +4,9 @@ Welcome to the EJPT-Notes repository!
 This repo contains my personal notes, cheat-sheets, lab exercises, and curated resources for preparing for the eLearnSecurity Junior Penetration Tester (eJPT) certification exam. It is structured to help anyone—especially aspiring penetration testers—study and practice core concepts required for the exam and for real-world penetration testing.
 
 ---
-
+### Pentesting Methodology in a nutshell (Simple Explanation in Chart...)
+- [`Pentesting Methodology in a nutshell`](./EJPT_NOTES/Enumeration/Penetration%20Testing%20Methodology.md)
+---
 ## 📚 Repository Structure
 
 The repository is organized into the following main sections:
@@ -39,8 +41,6 @@ Detailed notes and cheat-sheets categorized by exam domain. Ideal for quick revi
   Web application penetration testing notes.
 
 ---
-
-- [`Pentesting Methodology in a nutshell`](./Enumeration/Penetration%20Testing%20Methodology.md)
 
 ### 3. [`EJPT_PDFS/`](./EJPT_PDFS)
 Collection of supporting PDF documents, references, and study materials.
