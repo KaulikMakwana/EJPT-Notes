@@ -40,6 +40,8 @@ Detailed notes and cheat-sheets categorized by exam domain. Ideal for quick revi
 
 ---
 
+- [`Pentesting Methodology in a nutshell`](./Enumeration/Penetration%20Testing%20Methodology.md)
+
 ### 3. [`EJPT_PDFS/`](./EJPT_PDFS)
 Collection of supporting PDF documents, references, and study materials.
 
